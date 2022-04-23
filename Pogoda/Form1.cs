@@ -24,8 +24,8 @@ namespace Pogoda
         {
 
         }
-        string APIKeyOWM = "1c7cf377a26c85d4b01e72633bd794f8";
-        string APIKeyWA = "7290084853d14fb69e2183402222204";
+        string APIKeyOWM = "##############################";
+        string APIKeyWA = "##############################";
         private void buttonSearch_Click(object sender, EventArgs e)
         {
             getWeather();
