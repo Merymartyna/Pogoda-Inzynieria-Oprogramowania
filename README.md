@@ -3,7 +3,7 @@
 
 
 ## Charakterystyka oprogramowania
-Nazwa skrócona
+- Nazwa skrócona
 Porównywarka prognoz **„Nasza Pogoda”**
 
 
@@ -60,8 +60,8 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 
 # Architektura oprogramowania
 ## Architektura rozwoju
-- Google maps
-- ASP .NET 
+      - Google maps
+      - ASP .NET 
 ## Architektura uruchomieniowa
       -  Visual studio
       -  C#
@@ -82,4 +82,4 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 
 ![2022-04-24_09h01_29](https://user-images.githubusercontent.com/26117702/164960970-68b24c75-f5da-46f6-b23b-74534a00a203.png)
 
-<p style="text-align:ceneter">NaszaPogoda</p>
+<p>NaszaPogoda</p>
