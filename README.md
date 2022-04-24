@@ -47,9 +47,9 @@ Specyfikacja wymagań
 	Nazwa
 	|Opis
 	|Priorytet
-	|1
-	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia
-	Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.
+	|1|
+	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia|
+	Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.|
 	1
 	2
 	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Meteo
