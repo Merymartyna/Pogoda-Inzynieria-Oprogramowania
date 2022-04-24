@@ -25,8 +25,7 @@ Przyjemny interfejs użytkownika pozwala w przyjazny sposób przedstawić inform
 - Martyna Lange
 
 ### Warunki licencyjne
-   - Tło Aplikacji: Legal Simplicity: Można swobodnie modyfikować i wykorzystywać zdjęcia. Atrybucja nie jest wymagana
-#### warunki licencyjne znajdują się na stronie: www.pexels.com/license/
+   - Tło Aplikacji: Legal Simplicity: Można swobodnie modyfikować i wykorzystywać zdjęcia. Atrybucja nie jest wymagana warunki licencyjne znajdują się na stronie: www.pexels.com/license/
    - Dane z API OpenWeatherMap: Można swobodnie korzystać z naszych produktów i danych do celów niekomercyjnych lub komercyjnych, uznając OpenWeather (TM) za dostawcę danych pogodowych w swoim produkcie. Nasze produkty dostarczamy na licencji Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Database License (ODbL).
    - Dane z API WeatherAPI: Można swobodnie korzystać z naszych produktów i danych do celów niekomercyjnych lub komercyjnych. Możliwość modyfikacji i dystrybucji.
@@ -36,7 +35,9 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
       - Adaptacje — remiksuj, zmieniaj i twórz na bazie utworu
       - Dla dowolnego celu, także komercyjnego
 
-##Specyfikacja wymagań
+### Specyfikacja wymagań
+
+|Header1 |Header2  | Header3|
 
 
 |ID  |Nazwa |Opis |Priorytet|
