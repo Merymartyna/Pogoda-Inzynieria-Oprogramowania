@@ -43,40 +43,43 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 1- wymagane
 2- przydatne
 3- opcjonalne
-M
-Wymagania funkcjonalne
-Wyświetlanie temperatury, ciśnienia oraz prędkości wiatru
-Wyświetlane miary to stopnie celsjusza, hPA, km\h
-Wyświetlenie informacji pogodowych w języku polskim
-Wyświetlenie informacji pogodowych dla miasta uzupełnionego przez użytkownika
-Wyświetlenie informacji pogodowych dla tego samego miasta z różnych portali internetowych
-Wyświetlenie obrazka charakteryzującego pogodę dla danego miasta
-Wymagania niefunkcjonalne
-Kompatybilność z systemami Windows
-Użyteczność, łatwość korzystania z aplikacji, estetyka i szybka nauka obsługi aplikacji
-Responsywność 
-Dostępność
+
+##  Wymagania funkcjonalne
+- Wyświetlanie temperatury, ciśnienia oraz prędkości wiatru
+- Wyświetlane miary to stopnie celsjusza, hPA, km\h
+- Wyświetlenie informacji pogodowych w języku polskim
+- Wyświetlenie informacji pogodowych dla miasta uzupełnionego przez użytkownika
+- Wyświetlenie informacji pogodowych dla tego samego miasta z różnych portali internetowych
+- Wyświetlenie obrazka charakteryzującego pogodę dla danego miasta
+- Wymagania niefunkcjonalne
+- Kompatybilność z systemami Windows
+- Użyteczność, łatwość korzystania z aplikacji, estetyka i szybka nauka obsługi aplikacji
+- Responsywność 
+- Dostępność
 
 
-Architektura oprogramowania
-Architektura rozwoju
-. Google maps
-. ASP .NET 
-Architektura uruchomieniowa
-      *  Visual studio
-      *  C#
-      *  .net
-      *  Html Agility Pack
-      *  Open Weather Map
-      *  Weather Api
-      *  Canva.com
-      *  Interia
-      *  Meteo
-      *  Pogoda Trójmiasto
-      *  Wp
-      * Paint 3D
-      * xpather.com
-Testy
-Scenariusze testów
+# Architektura oprogramowania
+## Architektura rozwoju
+- Google maps
+- ASP .NET 
+## Architektura uruchomieniowa
+      -  Visual studio
+      -  C#
+      -  .net
+      -  Html Agility Pack
+      -  Open Weather Map
+      -  Weather Api
+      -  Canva.com
+      -  Interia
+      -  Meteo
+      -  Pogoda Trójmiasto
+      -  Wp
+      - Paint 3D
+      - xpather.com
+## Testy
+
+### Scenariusze testów
+
 ![2022-04-24_09h01_29](https://user-images.githubusercontent.com/26117702/164960970-68b24c75-f5da-46f6-b23b-74534a00a203.png)
-NaszaPogoda
+
+<p style="text-align:ceneter">NaszaPogoda</p>
