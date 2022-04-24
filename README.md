@@ -1,54 +1,47 @@
-# Pogoda-InzynieriaOprogramowania
+# Nasza Pogoda
+-InzynieriaOprogramowania
 
 
-Charakterystyka oprogramowania
+## Charakterystyka oprogramowania
 Nazwa skrócona
-Porównywarka prognoz „Nasza Pogoda”
+Porównywarka prognoz **„Nasza Pogoda”**
 
 
-Nazwa pełna
+## Nazwa pełna
 Aplikacja pozwalająca na porównywanie prognoz pogody z różnych stron internetowych
 
 
-Krótki opis ze wskazaniem celu
+## Krótki opis ze wskazaniem celu
 Aplikacja składa się z dwóch stron. Pierwsza skierowana do mieszkańców miasta Gdańsk pokazująca temperatury z serwisów pogodowych Interia, Meteo, Wp, Pogoda Trójmiasto. Druga pozwalająca na weryfikację pogody w dowolnie wybranym mieście z różnych ogólnodostępnych API pogodowych. Użytkownik otrzymuje analizę danych w postaci najniższej, najwyższej temperatury oraz ich różnicy.
 Przyjemny interfejs użytkownika pozwala w przyjazny sposób przedstawić informacje pogodowe.
 
 
 
 
-Prawa autorskie
-Autorzy
+## Prawa autorskie
+**Autorzy**
 
-* Weronika Przymuszała
-* Martyna Lange
+- Weronika Przymuszała
+- Martyna Lange
 
-Warunki licencyjne
-   * Tło Aplikacji: Legal Simplicity: Można swobodnie modyfikować i wykorzystywać zdjęcia. Atrybucja nie jest wymagana
-warunki licencyjne znajdują się na stronie: www.pexels.com/license/
-   * Dane z API OpenWeatherMap: Można swobodnie korzystać z naszych produktów i danych do celów niekomercyjnych lub komercyjnych, uznając OpenWeather (TM) za dostawcę danych pogodowych w swoim produkcie. Nasze produkty dostarczamy na licencji Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+### Warunki licencyjne
+   - Tło Aplikacji: Legal Simplicity: Można swobodnie modyfikować i wykorzystywać zdjęcia. Atrybucja nie jest wymagana
+#### warunki licencyjne znajdują się na stronie: www.pexels.com/license/
+   - Dane z API OpenWeatherMap: Można swobodnie korzystać z naszych produktów i danych do celów niekomercyjnych lub komercyjnych, uznając OpenWeather (TM) za dostawcę danych pogodowych w swoim produkcie. Nasze produkty dostarczamy na licencji Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Database License (ODbL).
-   * Dane z API WeatherAPI: Można swobodnie korzystać z naszych produktów i danych do celów niekomercyjnych lub komercyjnych. Możliwość modyfikacji i dystrybucji.
-Uznanie autorstwa 4.0
- Wolno:
-      * Dzielenie się — kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie
-      * Adaptacje — remiksuj, zmieniaj i twórz na bazie utworu
-      * Dla dowolnego celu, także komercyjnego
+   - Dane z API WeatherAPI: Można swobodnie korzystać z naszych produktów i danych do celów niekomercyjnych lub komercyjnych. Możliwość modyfikacji i dystrybucji.
+## Uznanie autorstwa 4.0
+ - Wolno:
+      - Dzielenie się — kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie
+      - Adaptacje — remiksuj, zmieniaj i twórz na bazie utworu
+      - Dla dowolnego celu, także komercyjnego
+
+##Specyfikacja wymagań
 
 
-
-
-Uznanie autorstwa 4.0
-
-Specyfikacja wymagań
-
-
-|ID| Nazwa| Opis| Priorytet|
-|1|Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia| Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.|1|
-	2
-	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Meteo
-	Wyciągnięcie z kodu HTML serwisu internetowego Meto potrzebnych danych.
-	1
+|ID  |Nazwa |Opis |Priorytet|
+|1| Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia| Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.|1|
+|2| Pobieranie danych pogodowych z kodu HTML serwisu internetowego Meteo| Wyciągnięcie z kodu HTML serwisu internetowego Meto potrzebnych danych.|1|
 	3
 	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Wp
 	Wyciągnięcie z kodu HTML serwisu internetowego Wp potrzebnych danych.
