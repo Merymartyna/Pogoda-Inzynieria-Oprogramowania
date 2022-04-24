@@ -37,7 +37,10 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 
 ### Specyfikacja wymagań
 
-|Header1 |Header2  | Header3|
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
 |ID  |Nazwa |Opis |Priorytet|
