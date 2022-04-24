@@ -33,7 +33,7 @@ Uznanie autorstwa 4.0
  Wolno:
       * Dzielenie się — kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie
       * Adaptacje — remiksuj, zmieniaj i twórz na bazie utworu
-      * dla dowolnego celu, także komercyjnego
+      * Dla dowolnego celu, także komercyjnego
 
 
 
@@ -43,14 +43,8 @@ Uznanie autorstwa 4.0
 Specyfikacja wymagań
 
 
-|ID|
-	Nazwa
-	|Opis
-	|Priorytet
-	|1|
-	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia|
-	Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.|
-	1
+|ID| Nazwa| Opis| Priorytet|
+|1|Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia| Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.|1|
 	2
 	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Meteo
 	Wyciągnięcie z kodu HTML serwisu internetowego Meto potrzebnych danych.
