@@ -62,6 +62,9 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 ## Architektura rozwoju
       - Google maps
       - ASP .NET 
+      - Visual studio
+      - C#
+      - .net
 ## Architektura uruchomieniowa
       -  Visual studio
       -  C#
