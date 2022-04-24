@@ -3,7 +3,7 @@
 
 
 ## Charakterystyka oprogramowania
-- Nazwa skrócona
+- Nazwa skrócona 
       - Porównywarka prognoz **„Nasza Pogoda”**
 
 
