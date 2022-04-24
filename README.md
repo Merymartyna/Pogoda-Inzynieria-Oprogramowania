@@ -36,7 +36,7 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
       - Dla dowolnego celu, także komercyjnego
 
 ### Specyfikacja wymagań
-![2022-04-24_09h11_58](https://user-images.githubusercontent.com/26117702/164964606-6a898534-0484-482f-93f1-be4c8d366571.png)
+![2022-04-24_09h12_44](https://user-images.githubusercontent.com/26117702/164964620-736e2f1d-ad2e-4554-9d30-a79e3d69ea0b.png)
 
 
 ## Miara priorytetu:
@@ -83,7 +83,8 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 
 ### Scenariusze testów
 
-![2022-04-24_09h12_44](https://user-images.githubusercontent.com/26117702/164964620-736e2f1d-ad2e-4554-9d30-a79e3d69ea0b.png)
+
+![2022-04-24_09h11_58](https://user-images.githubusercontent.com/26117702/164964606-6a898534-0484-482f-93f1-be4c8d366571.png)
 
 
 <p>NaszaPogoda</p>
