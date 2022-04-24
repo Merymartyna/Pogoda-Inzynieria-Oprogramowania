@@ -1,5 +1,5 @@
 # Nasza Pogoda
--InzynieriaOprogramowania
+
 
 
 ## Charakterystyka oprogramowania
@@ -39,10 +39,10 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 
 ![2022-04-24_09h00_41](https://user-images.githubusercontent.com/26117702/164960959-1b4df057-43e1-4f0a-9b91-e28f43c676ac.png)
 
-	Miara priorytetu:
-1- wymagane
-2- przydatne
-3- opcjonalne
+## Miara priorytetu:
+- 1 - wymagane
+- 2 - przydatne
+- 3 - opcjonalne
 
 ##  Wymagania funkcjonalne
 - Wyświetlanie temperatury, ciśnienia oraz prędkości wiatru
