@@ -43,11 +43,11 @@ Uznanie autorstwa 4.0
 Specyfikacja wymagań
 
 
-ID
+|ID|
 	Nazwa
-	Opis
-	Priorytet
-	1
+	|Opis
+	|Priorytet
+	|1
 	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia
 	Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.
 	1
@@ -99,6 +99,7 @@ ID
 	Wyświetlenie odpowiedniego obrazka ukazującego warunki pogodowe
 	Wyświetlenie obrazka
 	2
+
 	Miara priorytetu:
 1- wymagane
 2- przydatne
