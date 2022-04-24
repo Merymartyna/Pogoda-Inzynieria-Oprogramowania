@@ -37,17 +37,11 @@ Dane i bazy danych są otwarte i licencjonowane przez Open Data Commons Open Dat
 
 ### Specyfikacja wymagań
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
-
-|ID  |Nazwa |Opis |Priorytet|
-|1| Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia| Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.|1|
-|2| Pobieranie danych pogodowych z kodu HTML serwisu internetowego Meteo| Wyciągnięcie z kodu HTML serwisu internetowego Meto potrzebnych danych.|1|
-	3
-	Pobieranie danych pogodowych z kodu HTML serwisu internetowego Wp
+|ID| Nazwa                                                                  |Opis                                                                       |Priorytet|
+|1 | Pobieranie danych pogodowych z kodu HTML serwisu internetowego Interia | Wyciągnięcie z kodu HTML serwisu internetowego interia potrzebnych danych.|1        | 
+|2 | Pobieranie danych pogodowych z kodu HTML serwisu internetowego Meteo   | Wyciągnięcie z kodu HTML serwisu internetowego Meto potrzebnych danych.   |1        |
+|3 | Pobieranie danych pogodowych z kodu HTML serwisu internetowego Wp      |
 	Wyciągnięcie z kodu HTML serwisu internetowego Wp potrzebnych danych.
 	1
 	4
