@@ -20,9 +20,9 @@ Przyjemny interfejs użytkownika pozwala w przyjazny sposób przedstawić inform
 
 ## Prawa autorskie
 **Autorzy**
-
-- Weronika Przymuszała
 - Martyna Lange
+- Weronika Przymuszała
+
 
 ### Warunki licencyjne
    - Tło Aplikacji: Legal Simplicity: Można swobodnie modyfikować i wykorzystywać zdjęcia. Atrybucja nie jest wymagana warunki licencyjne znajdują się na stronie: www.pexels.com/license/
