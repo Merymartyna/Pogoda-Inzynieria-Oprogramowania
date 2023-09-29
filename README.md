@@ -20,6 +20,7 @@ Przyjemny interfejs użytkownika pozwala w przyjazny sposób przedstawić inform
 
 ## Prawa autorskie
 **Autorzy**
+
 - Martyna Lange
 - Weronika Przymuszała
 
